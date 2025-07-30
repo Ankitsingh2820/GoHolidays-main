@@ -55,7 +55,7 @@ You can access it via this Link : https://goholidays-dwu7.onrender.com
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yashshuklaa001/GoHolidays.git
+git clone https://github.com/Ankitsingh2820/GoHolidays.git
 cd GoHolidays
 ```
 ---
@@ -112,5 +112,5 @@ Visit http://localhost:3000 in your browser.
 ---
 
 ## 👨‍💻 Author
-name - Yash Shukla
-email - yashshukla18jul@gmail.com
+name - Ankit kumar
+email - ankitsingh41201@gmail.com
